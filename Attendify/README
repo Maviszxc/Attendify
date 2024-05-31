@@ -1,0 +1,29 @@
+# Attendify
+
+## Description
+
+Attendify is an attendance management system designed to help organizations track and manage employee attendance efficiently. This system allows for the creation and management of employee records, schedules, and role assignments.
+
+## Features
+
+-   Employee Management
+-   Role Management
+-   Schedule Management
+-   Attendance Tracking
+
+## Installation
+
+### Prerequisites
+
+-   PHP 7.4 or higher
+-   Composer
+-   Laravel
+-   MySQL or any other supported database
+
+### Steps
+
+### database name: attendhub
+
+1. **php artisan migrate**
+2. **php artisan db:seed**
+3. **php artisan serve**
